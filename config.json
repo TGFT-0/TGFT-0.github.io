@@ -1,7 +1,7 @@
 {
     "title":"TGFT的博客",
     "indexStyle":"<style>#header h1 {position: absolute;left: 50%;transform: translateX(-50%);display: flex;flex-direction: column;align-items: center;margin-top: 200px;}.avatar {width: 200px;height: 200px;}.title-right {margin-left: 50%;margin-top: 500px;transform: translateX(-50%);}#header h1 a {margin-top: 30px;}</style>",
-    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
+    "indexScript":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "subTitle":"欢迎来到我的博客，不定期更新各种内容",
     "startSite":"06/23/2024",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],

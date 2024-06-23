@@ -1,7 +1,7 @@
 {
     "title":"TGFT的博客",
     "style":"<style>#postBody{font-size:20px}</style>",
-"script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "subTitle":"欢迎来到我的博客，不定期更新各种内容",
     "startSite":"06/23/2024",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],

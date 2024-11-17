@@ -8,9 +8,8 @@
     "avatarUrl":"https://avatars.githubusercontent.com/u/172173149?s=400&u=939b26953e23998c44eae8ca5d0af737dcb85fb3&v=4",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
-    html {
     background: url('https://img.liyifan.xyz/file/a2262c314f6a8bd592eba.jpg') no-repeat center center fixed;
-    background-size: cover;}
+    background-size: cover;，
     "GMEEK_VERSION":"last"
     
 

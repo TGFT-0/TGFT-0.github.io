@@ -10,8 +10,7 @@
     "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
     html {
     background: url('https://img.liyifan.xyz/file/a2262c314f6a8bd592eba.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
+    background-size: cover;}
     "GMEEK_VERSION":"last"
     
 

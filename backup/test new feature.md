@@ -1,1 +1,1 @@
-test`Gmeek-html<iframe src="https://cloud.siliconflow.cn/playground/chat" width="100%" height="1080px" frameborder="0" allowfullscreen="true"></iframe>`
+test`Gmeek-html<iframe src="https://cloud.siliconflow.cn/playground/chat" width="200%" height="2080px" frameborder="4" allowfullscreen="true"></iframe>`
